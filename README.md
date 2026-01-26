@@ -1,2 +1,2 @@
 # bot
-bot making educcation easier
+bot making education easier
